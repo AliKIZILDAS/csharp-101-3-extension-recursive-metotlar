@@ -47,7 +47,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             return Expo(sayi, us-1)*sayi;         
         }
     }
-
     public static class Extension
     {
         public static bool checkSpaces(this string param)
